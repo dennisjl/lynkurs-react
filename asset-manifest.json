@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lynkurs-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/lynkurs-react/static/js/main.4c867c18.chunk.js",
+    "main.js.map": "/lynkurs-react/static/js/main.4c867c18.chunk.js.map",
+    "runtime-main.js": "/lynkurs-react/static/js/runtime-main.5c8d3050.js",
+    "runtime-main.js.map": "/lynkurs-react/static/js/runtime-main.5c8d3050.js.map",
+    "static/js/2.e635f3e9.chunk.js": "/lynkurs-react/static/js/2.e635f3e9.chunk.js",
+    "static/js/2.e635f3e9.chunk.js.map": "/lynkurs-react/static/js/2.e635f3e9.chunk.js.map",
+    "index.html": "/lynkurs-react/index.html",
+    "precache-manifest.c8e00d4077103135ac137687f3e2250b.js": "/lynkurs-react/precache-manifest.c8e00d4077103135ac137687f3e2250b.js",
+    "service-worker.js": "/lynkurs-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/lynkurs-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e635f3e9.chunk.js.LICENSE.txt": "/lynkurs-react/static/js/2.e635f3e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c8d3050.js",
+    "static/js/2.e635f3e9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4c867c18.chunk.js"
+  ]
+}
