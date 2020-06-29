@@ -61,7 +61,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+´´´npm run deploy´´´runs "gh-pages -d build".
+More info on this can be found at: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+
+Deployed at: https://dennisjl.github.io/lynkurs-react/
+
 
 ### `npm run build` fails to minify
 
