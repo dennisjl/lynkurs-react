@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lynkurs-react/precache-manifest.c8e00d4077103135ac137687f3e2250b.js"
+  "/lynkurs-react/precache-manifest.1e6f9b963e6a4568552aa612a6868be3.js"
 );
 
 self.addEventListener('message', (event) => {
